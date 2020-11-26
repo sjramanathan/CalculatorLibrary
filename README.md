@@ -1,7 +1,7 @@
 # Calculator Library
 
 ## Aim: 
-Learn how to make a Nuget package
+Learn how to make a Nuget package and import it into a HelloWorld .NET application.
 
 ## Technology Stack: 
   - Framework: .NET Core 2.1
