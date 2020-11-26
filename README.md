@@ -1,5 +1,4 @@
 # Calculator Library
-Built a calculator library using .NET Core (C#)
 
 Aim: Learn how to make a Nuget package
 
