@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/Calculator.csproj": {}
+  },
+  "projects": {
+    "/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/Calculator.csproj",
+        "packagesPath": "/Users/sramanathan/.nuget/packages/",
+        "outputPath": "/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sramanathan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "/Users/sramanathan/Documents/subscriptionProject/subscriptions-common-components/subscriptions-common-components/bin": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.teslamotors.com/artifactory/api/nuget/DigitalProductsNuGet-Dev": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

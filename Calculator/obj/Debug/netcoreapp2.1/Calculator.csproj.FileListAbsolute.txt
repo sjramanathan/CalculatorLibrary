@@ -1,0 +1,9 @@
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/bin/Debug/netcoreapp2.1/Calculator.deps.json
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/bin/Debug/netcoreapp2.1/Calculator.dll
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/bin/Debug/netcoreapp2.1/Calculator.pdb
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/obj/Debug/netcoreapp2.1/Calculator.csprojAssemblyReference.cache
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfoInputs.cache
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfo.cs
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/obj/Debug/netcoreapp2.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/obj/Debug/netcoreapp2.1/Calculator.dll
+/Users/sramanathan/Desktop/CalculatorLibrary/Calculator/obj/Debug/netcoreapp2.1/Calculator.pdb
