@@ -2,7 +2,7 @@
 
 Aim: Learn how to make a Nuget package
 
-Software Required: 
+Technology Stack: 
   - Framework: .NET Core 2.1
   - Language: C#
   
